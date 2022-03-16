@@ -3,9 +3,9 @@
 
 **nome dos alunos:** 
 
-*Higor Hotz Vasconcelos RM:82031 *
+* Higor Hotz Vasconcelos RM:82031 *
 
-*Marcello Maia Garcia RM:83982 *
+* Marcello Maia Garcia RM:83982 *
 
 **Turma: 4SIS**
 
