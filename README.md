@@ -4,9 +4,10 @@
 **nome dos alunos:** 
 
 *Higor Hotz Vasconcelos RM:82031 *
+
 *Marcello Maia Garcia RM:83982 *
 
-**Turma: 4sis**
+**Turma: 4SIS**
 
 **Ano: 4**
 
@@ -31,7 +32,7 @@ Segmentar os círculos maiores da imagem, Exibi na imagem a área, o centro de m
 
 * Rodar sempre o notebook do começo para evitar erros nas imagens 
 
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
+Para clonar esse repositório:
 
     cd /home/iot
     git clone https://github.com/highotz/Nac1AIEngineering
